@@ -19,5 +19,9 @@ Here are some ideas to get you started:
  - Email: *waterlava535@gmail.com*
 - Telegram: *[@ippishio](https://t.me/ippishio)*
 - Discord: *ippishio#8483*
+
+
+![kitty](./cat.gif)
+![kitty](./cat.gif)
 ![kitty](./cat.gif)
 
