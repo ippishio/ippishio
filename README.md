@@ -1,4 +1,4 @@
-### Hello everybody 👋
+### hi guys
 
 <!--
 **ippishio/ippishio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I'm curious about building interesting projects✨
-#### My contacts:
- - Email: *waterlava535@gmail.com*
-- Telegram: *[@ippishio](https://t.me/ippishio)*
-- Discord: *ippishio#8483*
+#### pepepopo
+#### my contacts:
+ - email: *waterlava535@gmail.com*
+- telegram: *[@ippishio](https://t.me/ippishio)*
+- discord: *ippishio#8483*
 
 
 ![kitty](./cat.gif)
